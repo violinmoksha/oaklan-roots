@@ -33,3 +33,9 @@ node_modules
 # Vagrant
 bin
 .vagrant
+
+# Database export
+database.sql
+
+# wp fastest cache
+web/app/cache
